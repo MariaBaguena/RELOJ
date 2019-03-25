@@ -1,0 +1,36 @@
+para ir para adelante cd y el nombre, para atrá, cd ..
+
+
+ls para saber donde estamos
+
+
+
+git init 
+
+
+diferentes estados
+M modificado (cuando cambio algo en un fichero) /////sale en rojoooooo
+
+git add .
+
+entonces pasa todo a :
+S stage
+
+para pasar a c:
+
+git commit-m"LE DAS EL NOMBRE QUE QUIERAS"
+
+C paquete cerrado
+
+entonces ya tengo la version 1
+ para subirla: git push
+
+
+//////descargar cheatsheetgit: chuleta de los comandos principales de git
+
+push y pull
+
+push para: subir a remoto
+
+
+pull para: BAJAR DATOS
